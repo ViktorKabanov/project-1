@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2025-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+
+-----------------------------------------------------------------
+<loc> — адрес вашей главной страницы (укажите свой домен).
+
+<lastmod> — дата последнего обновления (можете ставить актуальную).
+
+<changefreq> — частота изменения (например, monthly — ежемесячно).
+
+<priority> — приоритет страницы (от 0.1 до 1.0, для главной ставят 1.0).
+
+Сохраните файл с именем sitemap.xml в кодировке UTF-8.
+
+Загрузите файл в корневую папку сайта (там же, где находится ваш index.html или index.php), чтобы он был доступен по адресу
+https://ваш_домен/sitemap.xml.
+
